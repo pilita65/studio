@@ -1,0 +1,19 @@
+{
+  "name": "node-1",
+  "version": "1.0.0",
+  "description": "primer lab Ucreativa",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^0.6.5",
+    "exec": "^0.2.0",
+    "express": "^4.11.2",
+    "express3-handlebars": "^0.5.2",
+    "grunt": "^0.4.5",
+    "grunt-exec": "^0.4.6"
+  }
+}
